@@ -1,0 +1,40 @@
+---
+title: "Fools Fest..."
+description: "Schmools Fest"
+author:
+  -name: Taters
+    
+date: 03-02-2024
+image: FF_meeting_art.png
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+#### FoolsFest 2024 kicked off in style with a Town Hall call for questions, answers and getting excited!
+
+#### We wore some fun hats, answered some questions and brainstormed, went over our list of Clown Coordinator slots to make sure we are covering all our bases, announced that we'll be doing another site visit to Live Oak soon, and added to a list of questions for the venue manager.
+
+#### Sam wrote a poem about it (!):
+
+#### Fools Fest, Schmools Fest By Sam Arsenault 
+
+\- written during the planning meeting about the planning meeting
+2/21/2024
+
+### *Fools Fest, Schmools Fest Uplifting Kosher Gruel Fest*
+
+### *To be catsup on a hotdog, bare on the plate, Exposed to the world, no bun to protect you from fate*
+
+### *125 will fill my desired vibe Ron de Santis will not abide*
+
+### *Some more signups will bring my smile up, But not as much as snow cones bring my BAC up*
+
+### *Super mega lux bathrooms, Toilets, showers, water and all*
+
+### *Full industrial kitchen, To collaborate and pitch-in in*
+
+### *Forest Stage, Schmoorest Stage I like sheds with all four walls*
+
+### *But believing is believing, And I'll sure be sad when I am leaving*
