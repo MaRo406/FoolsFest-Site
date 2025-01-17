@@ -8,3 +8,5 @@ editor: visual
 ##### 4600 CA-154, Santa Barbara, CA 93105
 
 ![](docs/docs/photos/Live_Oak_Satellite_Map.png)
+
+![Map of the Realm](2024-photos/Foolsfest_art_map.png)
