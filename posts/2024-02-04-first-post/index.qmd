@@ -4,8 +4,8 @@ description: "...Place Holder"
 author:
   -name: Taters
     
-date: 
-image: 
+date: 2025-01-22
+#image: 
 draft: true
 ---
 
