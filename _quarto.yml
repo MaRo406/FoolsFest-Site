@@ -5,7 +5,7 @@ project:
     - Schedule/*
 
 website:
-  title: "FoolsFest 2024"
+  title: "FoolsFest 2025"
   favicon: jesters_cap_icon.png
   navbar:
     left:

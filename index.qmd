@@ -1,6 +1,6 @@
 ---
 title: ""
-image: FoolsFest logo_big.png
+image: FoolsFest2025_logo.png
 about: 
   template: jolla
   image-shape: round

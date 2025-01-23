@@ -1,4 +1,8 @@
 /* css styles */
+body {
+  background-color: #46286A; /* Replace this with your desired color */
+}
+
 h4 {
   color: bisque;
 }
