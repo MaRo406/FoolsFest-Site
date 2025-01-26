@@ -1,0 +1,10 @@
+---
+title: "Sponsors"
+editor: visual
+---
+
+We are grateful to Eden Foundation II for supporting the shared costs of Foolsfest!
+
+![][1]
+
+  [1]: img/Eden_foundation_logo.png

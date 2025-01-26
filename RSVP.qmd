@@ -3,8 +3,8 @@ title: "RSVP"
 editor: visual
 ---
 
-###### Click [here](https://forms.gle/rr3e9769FyJviYE78) to RSVP for FoolsFest!
+###### Click [here](https://forms.gle/REh3z7awaCqKMsns6) to RSVP for FoolsFest!
 
-#### 
+####
 
-![](docs/docs/photos/psychedelic_oak.jpeg)
+![](img/monocle_pecker.png)
