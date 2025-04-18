@@ -37,24 +37,6 @@ lightbox: auto
 
 ![Oorinals](photos/Bathroom_oorinals.jpg){group="bathroom"}
 
-## Forest Stage
-
-![Stage front](photos/Stage_front.jpg){group="forest stage"}
-
-![Stage inside](photos/Stage_inside.jpg){group="forest stage"}
-
-![Stage across](photos/Stage_across.jpg){group="forest stage"}
-
-![Stage outside](photos/Stage_outside.jpg){group="forest stage"}
-
-## Jesters Public House
-
-![Public house door](photos/Public_house_door.jpg){group="jesters pub"}
-
-![Public house long](/photos/Public_house_long.jpg){group="jesters pub"}
-
-![Public house more](/photos/Public_house_more.jpg){group="jesters pub"}
-
 ## Miscellaneous
 
 ![Firepit](photos/Fire_pit.jpg){group="misc"}
